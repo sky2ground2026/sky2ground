@@ -8,15 +8,7 @@
   <a href="https://arxiv.org/abs/2603.13740">[arXiv]</a> | <a href="https://www.kaggle.com/datasets/zhyw86/varying-altitude-dataset">[Dataset]</a>
 </p>
 
-**CVPR 2026**
 
-[[`arXiv`](https://arxiv.org/abs/2603.13740)]
-[[`Dataset`](https://www.kaggle.com/datasets/zhyw86/varying-altitude-dataset)]
-<!-- [[`Project Page`](https://aerial-megadepth.github.io/)] 
-
-[[`Bibtex`](#citation)] -->
-
-</div>
 
 ## 🖼 Dataset Preview
 
