@@ -1,3 +1,12 @@
+<style>
+  /* Hides the site title link in the header */
+  header .title, .site-header .wrapper a:first-child, #forkme_banner + h1 + a {
+    display: none !important;
+  }
+  
+  /* If you are using a standard GitHub theme, this usually does the trick */
+  .p-name.button { display: none !important; }
+</style>
 <div align="center">
   <h1>Sky2Ground: A Benchmark for Site Modeling under Varying Altitude</h1>
 
