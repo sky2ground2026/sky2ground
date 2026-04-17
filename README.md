@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <b>Zengyan Wang</b>, <b>Sirshapan Mitra</b>,[ <b>Rajat Modi</b>](https://github.com/sky2ground2026), <b>Grace Lim</b>, <b>Yogesh Rawat</b>
+  <b>Zengyan Wang</b>, <b>Sirshapan Mitra</b>,[<b>Rajat Modi</b>](https://github.com/sky2ground2026), <b>Grace Lim</b>, <b>Yogesh Rawat</b>
   <br>
   <strong>CVPR 2026</strong>
   <br>
