@@ -1,13 +1,4 @@
-<style>
-  /* This ensures all images in the real-world section have the same dimensions */
-  .grid-img {
-    width: 32%;
-    height: 200px; /* Adjust this height as you prefer */
-    object-fit: cover;
-    border-radius: 4px;
-    margin-bottom: 5px;
-  }
-</style>
+
 <div align="center">
   <h1>Sky2Ground: A Benchmark for Site Modeling under Varying Altitude</h1>
 
