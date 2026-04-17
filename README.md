@@ -1,4 +1,22 @@
+<style>
+  /* Hiding the GitHub Pages default theme header/banner */
+  header, .site-header, .page-header {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
 
+  /* Adjusting the grid images for a clean rectangular look */
+  .grid-img {
+    width: 32%;
+    height: 220px; 
+    object-fit: cover;
+    border-radius: 4px;
+    margin-bottom: 5px;
+  }
+</style>
 <div align="center">
   <h1>Sky2Ground: A Benchmark for Site Modeling under Varying Altitude</h1>
 
