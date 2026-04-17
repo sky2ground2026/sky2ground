@@ -5,8 +5,8 @@
   <p>
     <b>Zengyan Wang</b>, 
     <b>Sirshapan Mitra</b>, 
-    <b>Rajat Modi</b>, 
-    <b>Grace Lim</b>, 
+    <a href="https://rajatmodi62.github.io/2026/04/09/sky2ground/"><b>Rajat Modi</b></a>, 
+    <b>Grace Lim</b>,
     <b>Yogesh Rawat</b>
     <br>
     <strong>CVPR 2026</strong>
