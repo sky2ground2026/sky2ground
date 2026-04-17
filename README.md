@@ -1,5 +1,4 @@
 <div align="center">
-
   <h1>Sky2Ground: A Benchmark for Site Modeling under Varying Altitude</h1>
 
   <p>
@@ -51,13 +50,16 @@
     <em>Top: Satellite & Aerial Views | Bottom: Street Views</em>
   </p>
 
-  <blockquote style="background: #f9f9f9; border-left: 10px solid #ccc; margin: 1.5em 10px; padding: 0.5em 10px;">
+  <blockquote style="background: #f9f9f9; border-left: 10px solid #ccc; margin: 1.5em 10px; padding: 0.5em 10px; text-align: left;">
     <strong>Note:</strong> Real-world samples are provided as high-resolution static images, while synthetic samples include dynamic transitions (GIFs) to demonstrate environmental variance.
   </blockquote>
+</div>
 
+<div align="left">
+  <hr>
   <h2>🚀 Access the Dataset</h2>
 
-  <table border="1" cellpadding="10" style="border-collapse: collapse; width: 100%;">
+  <table border="1" cellpadding="10" style="border-collapse: collapse; width: 100%; text-align: left;">
     <thead>
       <tr style="background-color: #f2f2f2;">
         <th>Platform</th>
@@ -82,14 +84,16 @@
   <hr>
 
   <h2>🛠 Project Progress</h2>
-  <ul style="list-style: none; text-align: left; display: inline-block;">
+  <ul style="list-style: none; padding-left: 0;">
     <li>✅ Synthetic Images</li>
     <li>⬜ Real Images</li>
     <li>⬜ Benchmark</li>
   </ul>
 
-  <h2 style="text-align: left;">Citation</h2>
-  <div style="text-align: left; background-color: #f6f8fa; padding: 15px; border-radius: 6px;">
+  <hr>
+
+  <h2>Citation</h2>
+  <div style="background-color: #f6f8fa; padding: 15px; border-radius: 6px; font-family: monospace; overflow-x: auto;">
     <pre><code>@misc{wang2026sky2groundbenchmarksitemodeling,
       title={Sky2Ground: A Benchmark for Site Modeling under Varying Altitude}, 
       author={Zengyan Wang and Sirshapan Mitra and Rajat Modi and Grace Lim and Yogesh Rawat},
@@ -100,5 +104,4 @@
       url={https://arxiv.org/abs/2603.13740}
 }</code></pre>
   </div>
-
 </div>
