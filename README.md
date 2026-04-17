@@ -48,14 +48,14 @@
   <h3>📸 Real-World Dataset (Static Images)</h3>
   <p><i>Authentic captures for domain validation.</i></p>
 
-  <p>
-    <img src="imgs/ID0004_sat_real_19.jpg" width="32%" title="Real Satellite">
-    <img src="imgs/aerial_014.jpg" width="32%" title="Real Aerial 1">
-    <img src="imgs/aerial_019.jpg" width="32%" title="Real Aerial 2">
+<p>
+    <img src="imgs/ID0004_sat_real_19.jpg" class="grid-img" title="Real Satellite">
+    <img src="imgs/aerial_014.jpg" class="grid-img" title="Real Aerial 1">
+    <img src="imgs/aerial_019.jpg" class="grid-img" title="Real Aerial 2">
     <br>
-    <img src="imgs/street_003.jpg" width="32%" title="Real Street View 1">
-    <img src="imgs/street_033.jpg" width="32%" title="Real Street View 2">
-    <img src="imgs/street_120.jpg" width="32%" title="Real Street View 3">
+    <img src="imgs/street_003.jpg" class="grid-img" title="Real Street View 1">
+    <img src="imgs/street_033.jpg" class="grid-img" title="Real Street View 2">
+    <img src="imgs/street_120.jpg" class="grid-img" title="Real Street View 3">
     <br>
     <em>Top: Satellite & Aerial Views | Bottom: Street Views</em>
   </p>
