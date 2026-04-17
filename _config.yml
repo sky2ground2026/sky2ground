@@ -1,0 +1,6 @@
+# Set the title to null to hide the site-header title
+title: 
+description: 
+
+# Optional: If you want to use a specific theme but hide the title
+theme: jekyll-theme-cayman # or whichever theme you are currently using
