@@ -71,12 +71,12 @@
       <tr>
         <td><b>Hugging Face</b></td>
         <td><a href="https://huggingface.co/datasets/letsGoBlind/Sky2Ground/tree/main">🤗 Under Construction</a></td>
-        <td>Large-scale streaming</td>
+        <td></td>
       </tr>
       <tr>
         <td><b>Kaggle</b></td>
         <td><a href="https://www.kaggle.com/datasets/zhyw86/varying-altitude-dataset">📁 Under Construction</a></td>
-        <td>Notebooks & Competitions</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
