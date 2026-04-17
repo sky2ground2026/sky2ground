@@ -37,7 +37,7 @@
   <hr>
 
   <h3>📸 Real-World Dataset (Static Images)</h3>
-  <p><i>Authentic captures for domain validation.</i></p>
+
 
 <p>
     <img src="imgs/ID0004_sat_real_19.jpg" class="grid-img" title="Real Satellite">
