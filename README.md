@@ -1,4 +1,4 @@
-<h1 align="center">Sky2Ground: A Benchmark for Site Modeling under Varying Altitude</h1>
+
 
 <p align="center">
   <b>Zengyan Wang</b>, <b>Sirshapan Mitra</b>, <b>Rajat Modi</b>, <b>Grace Lim</b>, <b>Yogesh Rawat</b>
